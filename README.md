@@ -1,27 +1,32 @@
-### Hi there! 👋 Meraj here,
+<h1 align="center">Hi 👋, I'm Mohd Meraj</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
+<img align="right" alt="coder" width="400" style="background-color:black;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<!-- - 🔭 I’m currently working on [AnkiDroid](https://github.com/ankidroid/Anki-Android) as an open source contributor.
-- 🌱 I’m currently learning Kotlin Coroutines.
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking forward for just chit-chat.
-- 💬 Ask me about Android stuffs -->
-<!-- - 📫 Reach me at: <a href="mailto:kushwaha.divyansh.dxn@gmail.com">email</a>, <a href="https://instagram.com/divyansh.dxn">instagram<a/>, <a href="https://www.linkedin.com/in/divyansh-kushwaha-b44004202/">linkedin<a/> -->
-<!-- - 😄 Pronouns: He/His
-- ⚡ Fun fact: My portfolio is <a href="https://divyansh-dxn.github.io/me" target="_blank"/>Divyansh Kushwaha</a> -->
+- 🔭 I’m currently improving my Backend skills
   
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c6c61727764744671473633496c715552312f67697068792e676966](https://user-images.githubusercontent.com/69595691/174427668-2da65b8b-dbff-4abe-8ac3-361e2266ff99.gif)
-  
-  
-## 📊 My Github Stats
-<br/>
-  <a href="https://github.com/meraj-007/github-readme-stats"><img alt="Meraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meraj-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/meraj-007/github-readme-stats"><img alt="Divyansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj-007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meraj-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
-  
-<br/>
-  <a href="https://github.com/meraj-007/github-readme-activity-graph"><img alt="Meraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meraj-007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+- 🌱 I’m currently learning **Go**
 
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **merajmalik134@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bVerBx0Gf92J9legXlp8C2lwKZjZmzXE/view?usp=drive_link)
+
+- ⚡ Fun fact **I am an Optimist**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohd-meraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvbh69335427" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__meraj__007__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_be" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/unnknown007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ne0_d/profile" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="GO" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ne0-d&show_icons=true&locale=en&layout=compact" alt="ne0-d" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ne0-d&show_icons=true&locale=en" alt="ne0-d" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ne0-d&" alt="ne0-d" /></p>
